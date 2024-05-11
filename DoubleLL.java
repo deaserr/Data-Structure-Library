@@ -13,7 +13,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 
 
-public class doubleLL {
+public class DoubleLL {
     
     static Scanner input = new Scanner(System.in);
 
