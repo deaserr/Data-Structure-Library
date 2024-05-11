@@ -12,7 +12,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 
 
-public class singleLL {
+public class SingleLL {
     
     static Scanner input = new Scanner(System.in);
 
